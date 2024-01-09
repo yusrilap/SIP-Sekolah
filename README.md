@@ -1,6 +1,6 @@
 <h1 align="center">Sistem Informasi Akademik Sekolah</h1>
 
-## Fitur yang ada di Sistem Informasi Akademik Sekolah
+## Fitur yang ada di Sistem Informasi Akademik Sekolah (PHP v7.3)
 
 - Autentikasi Admin
 - User & CRUD
