@@ -27,7 +27,7 @@
 ```bash
 git clone https://github.com/yusrilap/SIP-Sekolah.git
 cd SIP-Sekolah
-composer install
+composer update
 cp .env.example .env
 ```
 
